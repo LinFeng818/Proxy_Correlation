@@ -193,4 +193,9 @@ payload:
   # 新增
   - PROCESS-NAME,com.google.android.youtube
   - PROCESS-NAME,com.google.android.youtube.tv
+  - PROCESS-NAME,video.l.google.com
+  - PROCESS-NAME,ytimg.l.google.com
+  - PROCESS-NAME,yt-video-upload.l.google.com
+  - PROCESS-NAME,ytkids.app.goo.gl
+  
   
