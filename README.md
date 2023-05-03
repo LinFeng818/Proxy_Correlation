@@ -1,7 +1,7 @@
 # Notes:
 ## GitHub链接国内加速
 https://www.jsdelivr.com/github
-## 机场订阅链接转换
+## 订阅链接转换
 https://github.com/NobyDa/Sub-Store
 ## GeoIP
 + #### Clash for Windows Default:  
