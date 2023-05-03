@@ -1,12 +1,12 @@
 ## 修改项
 ### Skype(新增）
 ### BBC
-  https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/BBC  
+  Source: https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/BBC  
   新增
   - DOMAIN-KEYWORD,bbctvapps.co
   - DOMAIN-KEYWORD,a1-api-bbc-co-uk-cddc.at-o
 ### Google
-  https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Clash/Google  
+  Source: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Clash/Google  
   新增
   - DOMAIN-SUFFIX,google.in
   - DOMAIN-SUFFIX,google.tk
