@@ -4,7 +4,7 @@
   - DOMAIN-KEYWORD,bbctvapps.co
   - DOMAIN-KEYWORD,a1-api-bbc-co-uk-cddc.at-o
 ### Google
-  # 新增
+  新增
   - DOMAIN-SUFFIX,google.in
   - DOMAIN-SUFFIX,google.tk
   - DOMAIN-SUFFIX,google.com.nf
