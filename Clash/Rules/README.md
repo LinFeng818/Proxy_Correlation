@@ -1,4 +1,5 @@
 ## 修改项
+### Skype(新增）
 ### BBC
   https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/BBC  
   新增
