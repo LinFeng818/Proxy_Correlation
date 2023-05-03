@@ -16,6 +16,13 @@
   新增
   - DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
   - DOMAIN-SUFFIX,openaicom.imgix.net
+### DisneyPlus
+  Source: https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Disney   
+  新增
+  - DOMAIN-SUFFIX,disney-vod-na-west-1.top.comcast.net
+  - DOMAIN-SUFFIX,disneystreaming.service-now.com
+  - DOMAIN-KEYWORD,disneyplus.disney.co
+  - DOMAIN-KEYWORD,shopdisney
 ### Peacock
   Source: https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Peacock  
   新增
