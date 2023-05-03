@@ -2,9 +2,8 @@
 ### Skype(新增）
 ### Line
   Source: https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Line
-  新增
-  - DOMAIN-KEYWORD,bbctvapps.co
-  - DOMAIN-KEYWORD,a1-api-bbc-co-uk-cddc.at-o
+  修改 - DOMAIN-KEYWORD,naver.jp 为：
+  - DOMAIN-KEYWORD,line.naver.jp
 ### BBC
   Source: https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/BBC  
   新增
