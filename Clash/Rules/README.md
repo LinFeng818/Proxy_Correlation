@@ -24,7 +24,7 @@
   - DOMAIN-SUFFIX,ggpht.com
   - DOMAIN-SUFFIX,goog
 ### YouTube
-  Source: https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/YouTube 
+  Source: https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/YouTube  
   新增
   - PROCESS-NAME,com.google.android.youtube
   - PROCESS-NAME,com.google.android.youtube.tv
