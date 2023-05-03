@@ -1,7 +1,7 @@
 ## 修改项
 ### Skype(新增）
 ### Line
-  Source: https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Line
+  Source: https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Line  
   修改 - DOMAIN-KEYWORD,naver.jp 为：
   - DOMAIN-KEYWORD,line.naver.jp
 ### BBC
