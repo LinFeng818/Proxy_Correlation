@@ -55,35 +55,44 @@
   - DOMAIN-SUFFIX,ytkids.app.goo.gl
 ### Journalism
   Source:  
-  https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/BBC  
+  https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/BBC   
   https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/CNN  
-  https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Bloomberg
-  BBC新增  
+  https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Bloomberg  
+  BBC新增   
   - DOMAIN-KEYWORD,bbctvapps.co
-  - DOMAIN-KEYWORD,a1-api-bbc-co-uk-cddc.at-o  
+  - DOMAIN-KEYWORD,a1-api-bbc-co-uk-cddc.at-o
+    
   CNN新增   
-  - DOMAIN-SUFFIX,cnn.net
+  - DOMAIN-SUFFIX,cnn.net  
+  
   Bloomberg新增  
   - DOMAIN-SUFFIX,bloombergbusiness.com
-  - DOMAIN-SUFFIX,bna.com
+  - DOMAIN-SUFFIX,bna.com  
+  
   CNBC（新增）  
-  - DOMAIN-SUFFIX,cnbc.com
+  - DOMAIN-SUFFIX,cnbc.com  
+  
   NBC_News（新增）  
   - DOMAIN-SUFFIX,nbcnews.com
-  - DOMAIN-SUFFIX,s-nbcnews.com
+  - DOMAIN-SUFFIX,s-nbcnews.com  
+  
   The_Economist（新增）  
-  - DOMAIN-SUFFIX,economist.com
+  - DOMAIN-SUFFIX,economist.com  
+  
   Washington_Post（新增）  
   - DOMAIN-SUFFIX,washingtonpost.com
-  - DOMAIN-SUFFIX,wpdigital.net
+  - DOMAIN-SUFFIX,wpdigital.net  
+  
   Wall_Street_Journal（新增）  
   - DOMAIN-SUFFIX,wsj.com
-  - DOMAIN-SUFFIX,wsj.net
+  - DOMAIN-SUFFIX,wsj.net  
+  
   New_York_Times（新增）  
   - DOMAIN-SUFFIX,nyt.com
   - DOMAIN-SUFFIX,nyt.net
   - DOMAIN-SUFFIX,nyti.ms
-  - DOMAIN-SUFFIX,nytimes.com
+  - DOMAIN-SUFFIX,nytimes.com  
+  
   New_York_Post（新增）  
   - DOMAIN-SUFFIX,nypost.com
   - DOMAIN-SUFFIX,pagesix.com
