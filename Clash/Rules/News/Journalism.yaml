@@ -42,7 +42,7 @@ payload:
   - DOMAIN-KEYWORD,bbcfmt
   - DOMAIN-KEYWORD,uk-live
   # 新增
-  - DOMAIN-KEYWORD,bbctvapps.co
+  - DOMAIN-KEYWORD,bbctvapps
   - DOMAIN-KEYWORD,a1-api-bbc-co-uk-cddc.at-o
 ###########################
 # NAME: CNN
