@@ -23,3 +23,12 @@
   - DOMAIN-SUFFIX,agnss.goog
   - DOMAIN-SUFFIX,ggpht.com
   - DOMAIN-SUFFIX,goog
+### YouTube
+  Source: https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/YouTube 
+  新增
+  - PROCESS-NAME,com.google.android.youtube
+  - PROCESS-NAME,com.google.android.youtube.tv
+  - PROCESS-NAME,video.l.google.com
+  - PROCESS-NAME,ytimg.l.google.com
+  - PROCESS-NAME,yt-video-upload.l.google.com
+  - PROCESS-NAME,ytkids.app.goo.gl
