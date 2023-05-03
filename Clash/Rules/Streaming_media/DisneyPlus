@@ -178,3 +178,9 @@ payload:
   - DOMAIN-SUFFIX,watchespn.com
   - PROCESS-NAME,com.disney.datg.videoplatforms.android.abc
   - PROCESS-NAME,com.disney.disneyplus
+  # 新增
+  - DOMAIN-SUFFIX,disney-vod-na-west-1.top.comcast.net
+  - DOMAIN-SUFFIX,disneystreaming.service-now.com
+  - DOMAIN-KEYWORD,disneyplus.disney.co
+  - DOMAIN-KEYWORD,shopdisney
+  
