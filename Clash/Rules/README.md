@@ -3,6 +3,8 @@
 
 ### YouTube(无修改) 
   Source: https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Netflix
+### Emby(无修改) 
+  Source: https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Emby  
   
 ---
 ### Skype(新增)
