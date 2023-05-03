@@ -1,0 +1,152 @@
+# NAME: Journalism
+# REPO: 
+# https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/BBC
+# https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/CNN
+# https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Bloomberg
+# UPDATED: 2023-04-07 14:50:24
+###########################
+# BBC
+payload:
+  - DOMAIN,aod-dash-uk-live.akamaized.net
+  - DOMAIN,aod-hls-uk-live.akamaized.net
+  - DOMAIN,aod-pod-uk-live.akamaized.net
+  - DOMAIN,as-dash-uk-live.akamaized.net
+  - DOMAIN,as-hls-uk-live.akamaized.net
+  - DOMAIN,ve-dash-uk-live.akamaized.net
+  - DOMAIN,ve-uhd-push-uk-live.akamaized.net
+  - DOMAIN,vod-dash-uk-live.akamaized.net
+  - DOMAIN,vod-dash-ww-live.akamaized.net
+  - DOMAIN,vod-hls-uk-live.akamaized.net
+  - DOMAIN,vod-sub-uk-live.akamaized.net
+  - DOMAIN,vod-thumb-uk-live.akamaized.net
+  - DOMAIN,vod-thumb-ww-live.akamaized.net
+  - DOMAIN,vs-cmaf-push-uk-live.akamaized.net
+  - DOMAIN,vs-cmaf-pushb-ww-live.akamaized.net
+  - DOMAIN,vs-hls-push-uk-live.akamaized.net
+  - DOMAIN,vs-hls-pushb-uk-live.akamaized.net
+  - DOMAIN-SUFFIX,bbc
+  - DOMAIN-SUFFIX,bbc.co
+  - DOMAIN-SUFFIX,bbc.co.uk
+  - DOMAIN-SUFFIX,bbc.com
+  - DOMAIN-SUFFIX,bbc.in
+  - DOMAIN-SUFFIX,bbc.net.uk
+  - DOMAIN-SUFFIX,bbcchinese.com
+  - DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net
+  - DOMAIN-SUFFIX,bbcfmt.s.llnwi.net
+  - DOMAIN-SUFFIX,bbci.co
+  - DOMAIN-SUFFIX,bbci.co.uk
+  - DOMAIN-SUFFIX,bbcmedia.co.uk
+  - DOMAIN-SUFFIX,bbcpersian.com
+  - DOMAIN-SUFFIX,bbcverticals.com
+  - DOMAIN-SUFFIX,bidi.net.uk
+  - DOMAIN-KEYWORD,bbcfmt
+  - DOMAIN-KEYWORD,uk-live
+  # 新增
+  - DOMAIN-KEYWORD,bbctvapps.co
+  - DOMAIN-KEYWORD,a1-api-bbc-co-uk-cddc.at-o
+###########################
+# NAME: CNN
+  - DOMAIN-SUFFIX,cnn.com
+  - DOMAIN-SUFFIX,cnn.io
+  - DOMAIN-SUFFIX,cnn.it
+  - DOMAIN-SUFFIX,cnnarabic.com
+  - DOMAIN-SUFFIX,cnnlabs.com
+  - DOMAIN-SUFFIX,cnnmoney.ch
+  - DOMAIN-SUFFIX,cnnmoney.com
+  - DOMAIN-SUFFIX,cnnmoneystream.com
+  - DOMAIN-SUFFIX,cnnpolitics.com
+  # 新增
+  - DOMAIN-KEYWORD,cnn.net
+###########################
+# NAME: Bloomberg
+  - DOMAIN-SUFFIX,bbgevent.com
+  - DOMAIN-SUFFIX,bbhub.io
+  - DOMAIN-SUFFIX,bbthat.com
+  - DOMAIN-SUFFIX,bgov.com
+  - DOMAIN-SUFFIX,bloomberg.cn
+  - DOMAIN-SUFFIX,bloomberg.co.jp
+  - DOMAIN-SUFFIX,bloomberg.co.kr
+  - DOMAIN-SUFFIX,bloomberg.com
+  - DOMAIN-SUFFIX,bloomberg.com.br
+  - DOMAIN-SUFFIX,bloomberg.fm
+  - DOMAIN-SUFFIX,bloomberg.tv
+  - DOMAIN-SUFFIX,bloombergapps.com
+  - DOMAIN-SUFFIX,bloombergarcade.com
+  - DOMAIN-SUFFIX,bloombergbeta.com
+  - DOMAIN-SUFFIX,bloombergbna.com
+  - DOMAIN-SUFFIX,bloombergbreakaway.com
+  - DOMAIN-SUFFIX,bloombergbriefs.com
+  - DOMAIN-SUFFIX,bloombergchina.com
+  - DOMAIN-SUFFIX,bloombergenvironment.com
+  - DOMAIN-SUFFIX,bloombergforeducation.com
+  - DOMAIN-SUFFIX,bloomberggovernment.com
+  - DOMAIN-SUFFIX,bloombergindices.com
+  - DOMAIN-SUFFIX,bloombergindustry.com
+  - DOMAIN-SUFFIX,bloomberglabs.com
+  - DOMAIN-SUFFIX,bloomberglaw.com
+  - DOMAIN-SUFFIX,bloomberglive.com
+  - DOMAIN-SUFFIX,bloomberglp.com
+  - DOMAIN-SUFFIX,bloombergmedia.com
+  - DOMAIN-SUFFIX,bloombergnext.com
+  - DOMAIN-SUFFIX,bloombergpolarlake.com
+  - DOMAIN-SUFFIX,bloombergprep.com
+  - DOMAIN-SUFFIX,bloombergquint.com
+  - DOMAIN-SUFFIX,bloombergradio.com
+  - DOMAIN-SUFFIX,bloombergsef.com
+  - DOMAIN-SUFFIX,bloombergspace.com
+  - DOMAIN-SUFFIX,bloombergstatus.com
+  - DOMAIN-SUFFIX,bloombergsurvey.com
+  - DOMAIN-SUFFIX,bloombergtax.com
+  - DOMAIN-SUFFIX,bloombergtax1.com
+  - DOMAIN-SUFFIX,bloombergtaxtech.com
+  - DOMAIN-SUFFIX,bloombergtradingchallenge.com
+  - DOMAIN-SUFFIX,bloombergtv.mn
+  - DOMAIN-SUFFIX,bloombergvault.com
+  - DOMAIN-SUFFIX,bloombergview.com
+  - DOMAIN-SUFFIX,blpcareers.com
+  - DOMAIN-SUFFIX,blpevents.com
+  - DOMAIN-SUFFIX,blpprofessional.com
+  - DOMAIN-SUFFIX,bmia.org
+  - DOMAIN-SUFFIX,bnef.com
+  - DOMAIN-SUFFIX,businessweek.com
+  - DOMAIN-SUFFIX,businessweekmag.com
+  - DOMAIN-SUFFIX,bwbx.io
+  - DOMAIN-SUFFIX,citylab.com
+  - DOMAIN-SUFFIX,gotraffic.net
+  - DOMAIN-SUFFIX,londonmithraeum.com
+  - DOMAIN-SUFFIX,neweconomyforum.com
+  - DOMAIN-SUFFIX,newenergyfinance.com
+  - DOMAIN-SUFFIX,quicktake.video
+  - DOMAIN-SUFFIX,techatbloomberg.com
+  - DOMAIN-SUFFIX,tictoc.video
+  # 新增
+  - DOMAIN-SUFFIX,bloombergbusiness.com
+  - DOMAIN-SUFFIX,bna.com
+###########################
+# NAME: CNBC（新增）
+  - DOMAIN-SUFFIX,cnbc.com
+###########################
+# NAME: NBC_News（新增）
+  - DOMAIN-SUFFIX,nbcnews.com
+  - DOMAIN-SUFFIX,s-nbcnews.com
+###########################
+# NAME: The_Economist（新增）
+  - DOMAIN-SUFFIX,economist.com
+###########################
+# NAME: Washington_Post（新增）
+  - DOMAIN-SUFFIX,washingtonpost.com
+  - DOMAIN-SUFFIX,wpdigital.net
+###########################
+# NAME: Wall_Street_Journal（新增）
+  - DOMAIN-SUFFIX,wsj.com
+  - DOMAIN-SUFFIX,wsj.net
+###########################
+# NAME: New_York_Times（新增）
+  - DOMAIN-SUFFIX,nyt.com
+  - DOMAIN-SUFFIX,nyt.net
+  - DOMAIN-SUFFIX,nyti.ms
+  - DOMAIN-SUFFIX,nytimes.com
+###########################
+# NAME: New_York_Post（新增）
+  - DOMAIN-SUFFIX,nypost.com
+  - DOMAIN-SUFFIX,pagesix.com
