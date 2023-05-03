@@ -27,9 +27,10 @@
 ### YouTube
   Source: https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/YouTube  
   新增
+  - PROCESS-NAME,youtube
   - PROCESS-NAME,com.google.android.youtube
   - PROCESS-NAME,com.google.android.youtube.tv
-  - PROCESS-NAME,video.l.google.com
-  - PROCESS-NAME,ytimg.l.google.com
-  - PROCESS-NAME,yt-video-upload.l.google.com
-  - PROCESS-NAME,ytkids.app.goo.gl
+  - DOMAIN-SUFFIX,video.l.google.com
+  - DOMAIN-SUFFIX,ytimg.l.google.com
+  - DOMAIN-SUFFIX,yt-video-upload.l.google.com
+  - DOMAIN-SUFFIX,ytkids.app.goo.gl
