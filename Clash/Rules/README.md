@@ -9,6 +9,11 @@
 ### Atlassian(新增)
 ### Plex(新增)
 ---
+### OpenAI
+  Source: https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/OpenAI   
+  新增
+  - DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+  - DOMAIN-SUFFIX,openaicom.imgix.net
 ### Peacock
   Source: https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Peacock  
   新增
