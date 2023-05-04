@@ -30,4 +30,6 @@ https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-p
 >   https://github.com/Semporia?tab=repositories
 > + **Hackl0us**  
 >   https://github.com/Hackl0us/SS-Rule-Snippet
+> + **ACL4SSR**  
+>   https://github.com/ACL4SSR/ACL4SSR/tree/master
 
