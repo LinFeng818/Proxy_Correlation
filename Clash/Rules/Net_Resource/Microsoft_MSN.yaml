@@ -1,0 +1,7 @@
+# NAME: MSN
+# AUTHOR: LinFeng818
+payload:
+  - DOMAIN-SUFFIX,msn.cn
+  - DOMAIN-SUFFIX,msn.com
+  - DOMAIN-SUFFIX,msn.com.nsatc.net
+  - DOMAIN-SUFFIX,s-msn.com
