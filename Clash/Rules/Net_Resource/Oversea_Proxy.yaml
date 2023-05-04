@@ -150,4 +150,9 @@ payload:
 ##################
 # NAME: Artstation
   - DOMAIN-SUFFIX,artstation.com
+##################
+# NAME: Adobe_Behance, Adobe_Stock
+  - DOMAIN-SUFFIX,adobestock.com
+  - DOMAIN-SUFFIX,stock.adobe.com
+  - DOMAIN-SUFFIX,behance.net
   
