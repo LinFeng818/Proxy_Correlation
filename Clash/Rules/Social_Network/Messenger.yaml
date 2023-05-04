@@ -1,0 +1,6 @@
+# Author: LinFeng818
+# NAME: Messenger
+payload:
+  - DOMAIN-SUFFIX,m.me
+  - DOMAIN-SUFFIX,messenger.com
+  - DOMAIN-SUFFIX,msngr.com
