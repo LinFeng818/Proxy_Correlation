@@ -10,6 +10,7 @@
 ### Skype(新增)
 ### Atlassian(新增)
 ### Plex(新增)
+### Dropbox(新增)
 ---
 ### OpenAI
   Source: https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/OpenAI   
