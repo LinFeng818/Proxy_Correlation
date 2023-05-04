@@ -1,6 +1,6 @@
 # NAME: Adobe
 # AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
+# REPO: https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Adobe
 # UPDATED: 2023-04-07 14:50:24
 # DOMAIN: 8
 # DOMAIN-KEYWORD: 1
@@ -53,7 +53,6 @@ payload:
   - DOMAIN-SUFFIX,adobesigncdn.com
   - DOMAIN-SUFFIX,adobespark.com
   - DOMAIN-SUFFIX,adobess.com
-  - DOMAIN-SUFFIX,adobestock.com
   - DOMAIN-SUFFIX,adobetag.com
   - DOMAIN-SUFFIX,adobetarget.com
   - DOMAIN-SUFFIX,adobetcstrialdvd.com
@@ -64,7 +63,6 @@ payload:
   - DOMAIN-SUFFIX,assetsadobe.com
   - DOMAIN-SUFFIX,authorxml.com
   - DOMAIN-SUFFIX,bam.nr-data.net
-  - DOMAIN-SUFFIX,behance.net
   - DOMAIN-SUFFIX,bluefootcms.com
   - DOMAIN-SUFFIX,businesscatalyst.com
   - DOMAIN-SUFFIX,ccnsite.com
@@ -153,7 +151,15 @@ payload:
   - DOMAIN-SUFFIX,worldsecureemail.com
   - DOMAIN-SUFFIX,worldsecuresystems.com
   - DOMAIN-KEYWORD,adobe
+  # 删除
+  #- DOMAIN-SUFFIX,adobestock.com
+  #- DOMAIN-SUFFIX,behance.net
   # 新增
+  - DOMAIN-SUFFIX,adobe-identity.com
+  - DOMAIN-SUFFIX,adobe.net
+  - DOMAIN-SUFFIX,adobecces.com
+  - DOMAIN-SUFFIX,createjs.com
+  - DOMAIN-SUFFIX,myportfolio.com
   - DOMAIN-SUFFIX,ctldl.windowsupdate.com
   - DOMAIN-SUFFIX,adobe-campaign.com
   - DOMAIN-SUFFIX,adobeconnect.com
