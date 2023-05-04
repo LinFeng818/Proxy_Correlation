@@ -1,0 +1,16 @@
+# NAME: Microsoft_SharePoint
+# AUTHOR: LinFeng818
+payload:
+  - DOMAIN-SUFFIX,sharepoint-df.com
+  - DOMAIN-SUFFIX,sharepoint.apac.microsoftonline.com
+  - DOMAIN-SUFFIX,sharepoint.cn
+  - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,sharepoint.de
+  - DOMAIN-SUFFIX,sharepoint.emea.microsoftonline.com
+  - DOMAIN-SUFFIX,sharepoint.microsoftonline.com
+  - DOMAIN-SUFFIX,sharepoint.us
+  - DOMAIN-SUFFIX,sharepointonline.com
+  - DOMAIN-SUFFIX,spo-msedge.net
+  - DOMAIN-SUFFIX,spoppe.com
+  - DOMAIN-SUFFIX,spov-msedge.net
+ 
