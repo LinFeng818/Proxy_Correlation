@@ -1,8 +1,0 @@
-# Author:LinFeng818
-payload:
-  - DOMAIN-SUFFIX,atl-paas.net
-  - DOMAIN-SUFFIX,atlassian.com
-  - DOMAIN-SUFFIX,atlassian.net
-  - DOMAIN-SUFFIX,bitbucket.org
-  - DOMAIN-SUFFIX,ss-inf.net
-  - DOMAIN-SUFFIX,trello.com

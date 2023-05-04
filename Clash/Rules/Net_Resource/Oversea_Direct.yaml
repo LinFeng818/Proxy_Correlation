@@ -1,0 +1,63 @@
+# Author:LinFeng818
+##################
+# NAME: Slack
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Slack
+# UPDATED: 2023-04-07 14:51:22
+# DOMAIN-SUFFIX: 11
+# TOTAL: 11
+payload:
+  - DOMAIN-SUFFIX,slack-core.com
+  - DOMAIN-SUFFIX,slack-edge.com
+  - DOMAIN-SUFFIX,slack-files.com
+  - DOMAIN-SUFFIX,slack-imgs.com
+  - DOMAIN-SUFFIX,slack-msgs.com
+  - DOMAIN-SUFFIX,slack-redir.net
+  - DOMAIN-SUFFIX,slack.com
+  - DOMAIN-SUFFIX,slackb.com
+  - DOMAIN-SUFFIX,slackcertified.com
+  - DOMAIN-SUFFIX,slackdemo.com
+  - DOMAIN-SUFFIX,slackhq.com
+##################
+# NAME: Shopify
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Clash/Shopify
+# UPDATED: 2023-04-07 14:51:21
+# DOMAIN-SUFFIX: 8
+# TOTAL: 8
+  - DOMAIN-SUFFIX,myshopify.com
+  - DOMAIN-SUFFIX,shop.app
+  - DOMAIN-SUFFIX,shopify.com
+  - DOMAIN-SUFFIX,shopify.dev
+  - DOMAIN-SUFFIX,shopifycdn.com
+  - DOMAIN-SUFFIX,shopifycloud.com
+  - DOMAIN-SUFFIX,shopifystatus.com
+  - DOMAIN-SUFFIX,shopifysvc.com
+##################
+# NAME: Atlassian
+  - DOMAIN-SUFFIX,atl-paas.net
+  - DOMAIN-SUFFIX,atlassian.com
+  - DOMAIN-SUFFIX,atlassian.net
+  - DOMAIN-SUFFIX,bitbucket.org
+  - DOMAIN-SUFFIX,ss-inf.net
+  - DOMAIN-SUFFIX,trello.com
+##################
+# NAME: Miro
+  - DOMAIN-SUFFIX,miro.com
+##################
+# NAME: Figma
+  - DOMAIN-SUFFIX,figma.com
+##################
+# NAME: Grammarly
+  - DOMAIN-SUFFIX,grammarly.com
+  - DOMAIN-SUFFIX,grammarly.io
+  - DOMAIN-SUFFIX,grammarlyaws.com
+##################
+# NAME: Giphy
+  - DOMAIN-SUFFIX,giphy.com
+##################
+# NAME: 80Level
+  - DOMAIN-SUFFIX,80.lv
+##################
+# NAME: Polycount
+  - DOMAIN-SUFFIX,polycount.com
