@@ -1,0 +1,33 @@
+# NAME: Microsoft_Auth
+# AUTHOR: LinFeng818
+payload:
+  - DOMAIN-SUFFIX,account.live-int.com
+  - DOMAIN-SUFFIX,account.live.com
+  - DOMAIN-SUFFIX,activedirectory.windowsazure.com
+  - DOMAIN-SUFFIX,auth.microsoft.com
+  - DOMAIN-SUFFIX,authgfx.msa.akadns6.net
+  - DOMAIN-SUFFIX,client.hip.live.com
+  - DOMAIN-SUFFIX,graph.microsoft.com
+  - DOMAIN-SUFFIX,graph.windows.net
+  - DOMAIN-SUFFIX,login-us.microsoftonline.com
+  - DOMAIN-SUFFIX,login.live-int.com
+  - DOMAIN-SUFFIX,login.live.com
+  - DOMAIN-SUFFIX,login.microsoft.com
+  - DOMAIN-SUFFIX,login.microsoftonline-p.com
+  - DOMAIN-SUFFIX,login.microsoftonline.com
+  - DOMAIN-SUFFIX,login.windows.net
+  - DOMAIN-SUFFIX,logincert.microsoftonline.com
+  - DOMAIN-SUFFIX,loginex.microsoftonline.com
+  - DOMAIN-SUFFIX,microsoftazuread-sso.com
+  - DOMAIN-SUFFIX,msagfx.live.com
+  - DOMAIN-SUFFIX,msauth.net
+  - DOMAIN-SUFFIX,msftauth.net
+  - DOMAIN-SUFFIX,msidentity.com
+  - DOMAIN-SUFFIX,myaccount.microsoft.com
+  - DOMAIN-SUFFIX,mysignins.microsoft.com
+  - DOMAIN-SUFFIX,nexus.microsoftonline-p.com
+  - DOMAIN-SUFFIX,passport.net
+  - DOMAIN-SUFFIX,passwordreset.microsoftonline.com
+  - DOMAIN-SUFFIX,signup.live.com
+  
+ 
