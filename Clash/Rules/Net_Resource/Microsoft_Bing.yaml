@@ -4,6 +4,19 @@
 # UPDATED: 2023-04-07 14:52:57
 # DOMAIN-SUFFIX: 25
 # TOTAL: 25
+# domain 列表
+bi.ng
+bing-int.com
+bing.com.bo
+bing.com.co
+bing.com.cy
+bing.com.gt
+bing.jp
+bing.office.net
+bingapis.com
+bingforbusiness.com
+cortana.ai
+windowssearch.com
 payload:
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,bing.com.cn
