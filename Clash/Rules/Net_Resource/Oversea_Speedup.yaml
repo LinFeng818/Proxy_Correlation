@@ -1,3 +1,5 @@
+# Author:LinFeng818
+##################
 # NAME: Notion
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/Notion
@@ -10,3 +12,6 @@ payload:
   - DOMAIN-SUFFIX,notion.new
   - DOMAIN-SUFFIX,notion.site
   - DOMAIN-SUFFIX,notion.so
+##################
+# NAME: TED
+  - DOMAIN-SUFFIX,ted.com
