@@ -1,0 +1,25 @@
+# NAME: Microsoft_Office
+# AUTHOR: LinFeng818
+payload:
+  - DOMAIN-SUFFIX,assets-yammer.com
+  - DOMAIN-SUFFIX,clo.footprintdns.com
+  - DOMAIN-SUFFIX,e3394.dscc.akamaiedge.ne
+  - DOMAIN-SUFFIX,e3394.dscg.akamaiedge.ne
+  - DOMAIN-SUFFIX,microsoftonline-p.com
+  - DOMAIN-SUFFIX,microsoftonline.com
+  - DOMAIN-SUFFIX,msocdn.com
+  - DOMAIN-SUFFIX,msocsp.com
+  - DOMAIN-SUFFIX,nrb.footprintdns.com
+  - DOMAIN-SUFFIX,o365filtering.com
+  - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,office.de
+  - DOMAIN-SUFFIX,office.microsoft
+  - DOMAIN-SUFFIX,office.net
+  - DOMAIN-SUFFIX,office365.com
+  - DOMAIN-SUFFIX,office365.us
+  - DOMAIN-SUFFIX,officeapps.live.com
+  - DOMAIN-SUFFIX,officecdn.microsoft.com
+  - DOMAIN-SUFFIX,officeclient.microsoft.com
+  - DOMAIN-SUFFIX,onmicrosoft.com
+  - DOMAIN-SUFFIX,svc.ms
+  - DOMAIN-SUFFIX,yammer.com
