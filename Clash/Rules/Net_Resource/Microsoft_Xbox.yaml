@@ -51,7 +51,7 @@ payload:
   - DOMAIN-SUFFIX,xboxstudios.com
   - DOMAIN-SUFFIX,xbx.lv
   # 新增
-  - DOMAIN,xbox-global.ifs.windows.com
-  - DOMAIN,xbox-guide-public.rec.mp.microsoft.com
-  - DOMAIN,xbox.ipv6.microsoft.com
+  - DOMAIN-SUFFIX,xbox-global.ifs.windows.com
+  - DOMAIN-SUFFIX,xbox-guide-public.rec.mp.microsoft.com
+  - DOMAIN-SUFFIX,xbox.ipv6.microsoft.com
   
