@@ -604,3 +604,4 @@ payload:
   - IP-CIDR,69.171.224.0/19,no-resolve
   - IP-CIDR,69.63.176.0/20,no-resolve
   - IP-CIDR,74.119.76.0/22,no-resolve
+  - PROCESS-NAME,com.facebook.katana
