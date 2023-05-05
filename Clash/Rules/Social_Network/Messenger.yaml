@@ -4,3 +4,7 @@ payload:
   - DOMAIN-SUFFIX,m.me
   - DOMAIN-SUFFIX,messenger.com
   - DOMAIN-SUFFIX,msngr.com
+  - DOMAIN-SUFFIX,messengerdevelopers.com
+  - DOMAIN-SUFFIX,fbmessenger.com
+  # 新增
+  - PROCESS-NAME,com.facebook.orca
