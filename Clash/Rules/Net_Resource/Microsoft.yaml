@@ -7,84 +7,6 @@
 # DOMAIN-SUFFIX: 660
 # PROCESS-NAME: 2
 # TOTAL: 668  
-# domain 列表
-aka.ms
-appcenter.ms
-aspnetcdn.com
-auth.gfx.ms
-dynamics.com
-exp-tas.com
-gfx.ms
-live.com
-live.net
-microsoft
-microsoft.az
-microsoft.be
-microsoft.by
-microsoft.ca
-microsoft.cat
-microsoft.ch
-microsoft.cl
-microsoft.com
-microsoft.com.nsatc.net
-microsoft.cz
-microsoft.de
-microsoft.dk
-microsoft.ee
-microsoft.es
-microsoft.eu
-microsoft.fi
-microsoft.ge
-microsoft.hu
-microsoft.io
-microsoft.is
-microsoft.it
-microsoft.jp
-microsoft.lt
-microsoft.lu
-microsoft.lv
-microsoft.md
-microsoft.net
-microsoft.pl
-microsoft.pt
-microsoft.red
-microsoft.ro
-microsoft.rs
-microsoft.ru
-microsoft.se
-microsoft.si
-microsoft.tv
-microsoft.ua
-microsoft.us
-microsoft.uz
-microsoft.vn
-microsoftapp.net
-microsoftonline.us
-microsoftrewards.com
-microsoftstoreemail.com
-microsofttranslator.com
-msa.akadns6.net
-msappproxy.net
-msecnd.net
-msft.net
-msftconnecttest.com
-msftncsi.com
-msftstatic.com
-mshome.net
-nelreports.net
-nsatc.net
-onenote.net
-onestore.ms
-powerbi.com
-s-microsoft.com
-s-msft.com
-sfx.ms
-touchtype-fluency.com
-wbd.ms
-whiteboard.ms
-windowsmedia.com
-windowsphone.com
-wpc.v0cdn.net
 payload:
   - DOMAIN,github-cloud.s3.amazonaws.com
   - DOMAIN,vsmarketplacebadge.apphb.com
@@ -754,3 +676,19 @@ payload:
   - DOMAIN-KEYWORD,skydrive
   - PROCESS-NAME,OneDrive
   - PROCESS-NAME,OneDriveUpdater
+  # 新增
+  - DOMAIN-SUFFIX,microsoft.us
+  - DOMAIN-SUFFIX,auth.gfx.ms
+  - DOMAIN-SUFFIX,microsoftonline.us
+  - DOMAIN-SUFFIX,microsoftrewards.com
+  - DOMAIN-SUFFIX,microsoftstoreemail.com
+  - DOMAIN-SUFFIX,msftncsi.com
+  - DOMAIN-SUFFIX,msftstatic.com
+  - DOMAIN-SUFFIX,mshome.net
+  - DOMAIN-SUFFIX,nelreports.net
+  - DOMAIN-SUFFIX,nsatc.net
+  - DOMAIN-SUFFIX,touchtype-fluency.com
+  - DOMAIN-SUFFIX,whiteboard.ms
+  - DOMAIN-SUFFIX,windowsmedia.com
+  - DOMAIN-SUFFIX,wpc.v0cdn.net
+  
