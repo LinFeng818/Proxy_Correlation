@@ -80,5 +80,7 @@ payload:
   - DOMAIN-SUFFIX,web-instagram.net
   - DOMAIN-SUFFIX,wwwinstagram.com
   - DOMAIN-KEYWORD,instagram
+  # 删除
+  - DOMAIN-SUFFIX,wwwinstagram.com
   # 新增
   - PROCESS-NAME,com.instagram.android
