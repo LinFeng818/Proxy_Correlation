@@ -5,18 +5,6 @@
 # DOMAIN-SUFFIX: 25
 # TOTAL: 25
 # domain 列表
-bi.ng
-bing-int.com
-bing.com.bo
-bing.com.co
-bing.com.cy
-bing.com.gt
-bing.jp
-bing.office.net
-bingapis.com
-bingforbusiness.com
-cortana.ai
-windowssearch.com
 payload:
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,bing.com.cn
@@ -43,3 +31,16 @@ payload:
   - DOMAIN-SUFFIX,office365tw.com
   - DOMAIN-SUFFIX,renovacionoffice.com
   - DOMAIN-SUFFIX,sprinklesapp.com
+  # 新增
+  - DOMAIN-SUFFIX,bi.ng
+  - DOMAIN-SUFFIX,bing-int.com
+  - DOMAIN-SUFFIX,bing.com.bo
+  - DOMAIN-SUFFIX,bing.com.co
+  - DOMAIN-SUFFIX,bing.com.cy
+  - DOMAIN-SUFFIX,bing.com.gt
+  - DOMAIN-SUFFIX,bing.jp
+  - DOMAIN-SUFFIX,bing.office.net
+  - DOMAIN-SUFFIX,bingapis.com
+  - DOMAIN-SUFFIX,bingforbusiness.com
+  - DOMAIN-SUFFIX,cortana.ai
+  - DOMAIN-SUFFIX,windowssearch.com
