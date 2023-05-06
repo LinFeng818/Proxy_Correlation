@@ -744,6 +744,11 @@ payload:
   - PROCESS-NAME,com.google.android.play.games
   - PROCESS-NAME,BackupandSync
   # 新增
+  - DOMAIN,lens.l.google.com
+  - DOMAIN,www.googleapis.com
+  - DOMAIN-SUFFIX,voice.google.com
+  - DOMAIN-SUFFIX,docs.google.com
+  - DOMAIN-SUFFIX,drive.google.com
   - DOMAIN-SUFFIX,google.in
   - DOMAIN-SUFFIX,google.tk
   - DOMAIN-SUFFIX,google.com.nf
