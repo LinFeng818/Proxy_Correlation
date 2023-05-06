@@ -124,6 +124,7 @@ payload:
   # 新增
   - DOMAIN-SUFFIX,bloombergbusiness.com
   - DOMAIN-SUFFIX,bna.com
+  - DOMAIN-SUFFIX,bloomberg.de
 ###########################
 # NAME: CNBC（新增）
   - DOMAIN-SUFFIX,cnbc.com
