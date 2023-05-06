@@ -1,4 +1,5 @@
-# Author:LinFeng818
+# NAME: Microsoft_Skype
+# Author: LinFeng818
 payload:
   - DOMAIN-SUFFIX,s-0001.s-dc-msedge.net
   - DOMAIN-SUFFIX,skype.com
