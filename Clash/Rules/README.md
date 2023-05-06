@@ -125,7 +125,7 @@ https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Soci
 RAW:  
 https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Social_Network/Linkedin.yaml
 - **MetaApps**  
-> Meta-Messenger-Facebook-Instagram-Whatsapp-Oculus  
+( Meta-Messenger-Facebook-Instagram-Whatsapp-Oculus )  
 CDN：  
 https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Social_Network/MetaApps.yaml  
 RAW:  
@@ -161,6 +161,25 @@ https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Soci
 RAW:  
 https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Social_Network/Twitter.yaml
 ## Net_Hub
+- **Oversea_Direct**  
+( Slack-Shopify-Atlassian-Miro-Figma-Grammarly-Giphy )  
+CDN：  
+https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/Oversea_Direct.yaml  
+RAW:  
+https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/Oversea_Direct.yaml
+- **Oversea_Proxy**  
+( BBC-CNN-Bloomberg-CNBC-NBC_News-The_Economist-Washington_Post-Wall_Street_Journal-New_York_Times-New_York_Post )  
+( GitHub-GitLab-Pinterest-Pixiv-Flickr-Quora-Gumroad-Artstation-Adobe_Behance-Adobe_Stock-AVS )  
+CDN：  
+https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/Oversea_Proxy.yaml  
+RAW:  
+https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/Oversea_Proxy.yaml
+- **Oversea_Speedup**  
+( Notion-TED-80Level-Polycount )  
+CDN：  
+https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/Oversea_Proxy.yaml
+RAW:  
+https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/Oversea_Speedup.yaml
 - **Adobe**  
 CDN：    
 https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/Adobe.yaml  
@@ -181,6 +200,31 @@ CDN：
 https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/Google.yaml  
 RAW:  
 https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/Google.yaml
+- **OpenAI**  
+CDN：  
+https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/OpenAI.yaml  
+RAW:  
+https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/OpenAI.yaml
+- **PayPal**  
+CDN：  
+https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/PayPal.yaml  
+RAW:  
+https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/PayPal.yaml
+- **PlayStation**  
+CDN：  
+https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/PlayStation.yaml  
+RAW:  
+https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/PlayStation.yaml
+- **Steam**  
+CDN：  
+https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/Steam.yaml  
+RAW:  
+https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/Steam.yaml
+- **SteamCN**  
+CDN：  
+https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/SteamCN.yaml  
+RAW:  
+https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/SteamCN.yaml
 - **Microsoft**  
 CDN：  
 https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/Microsoft/Microsoft.yaml  
@@ -236,22 +280,16 @@ CDN：
 https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/Microsoft/Microsoft_Xbox.yaml  
 RAW:  
 https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/Microsoft/Microsoft_Xbox.yaml
-- **OpenAI**  
+- **Aaaaaa**  
 CDN：  
-https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/OpenAI.yaml
+h
 RAW:  
-https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/OpenAI.yaml
-- **PayPal**  
+h
+- **Aaaaaa**  
 CDN：  
-https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/PayPal.yaml
+h
 RAW:  
-https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/PayPal.yaml
-- **Oversea_Direct**  
-> Slack-Shopify-Atlassian-Miro-Figma-Grammarly-Giphy
-CDN：  
-https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/Oversea_Direct.yaml  
-RAW:  
-https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/Oversea_Direct.yaml
+h
 - **Aaaaaa**  
 CDN：  
 h
