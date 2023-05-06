@@ -548,7 +548,7 @@ payload:
   - DOMAIN-SUFFIX,fbpigeon.com
   - DOMAIN-SUFFIX,m-freeway.com
   - DOMAIN-SUFFIX,wit.ai
-  - DOMAIN-KEYWORD,facebook.com
+  - DOMAIN-KEYWORD,.facebook.
   - IP-CIDR,103.4.96.0/22,no-resolve
   - IP-CIDR,179.60.192.0/22,no-resolve
   - IP-CIDR,185.60.216.0/22,no-resolve
