@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 ## Streaming_media
 - **AmazonPrimeVideo**  
 CDN：  
-https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Streaming_media/AmazonPrimeVideo.yaml 
+https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Streaming_media/AmazonPrimeVideo.yaml  
 RAW:  
 https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Streaming_media/AmazonPrimeVideo.yaml
 - **AppleFitnessPlus**  
