@@ -125,7 +125,7 @@ https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Soci
 RAW:  
 https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Social_Network/Linkedin.yaml
 - **MetaApps**  
-* Meta&Messenger&Facebook&Instagram&Whatsapp&Oculus
+> Meta-Messenger-Facebook-Instagram-Whatsapp-Oculus  
 CDN：  
 https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Social_Network/MetaApps.yaml  
 RAW:  
@@ -166,6 +166,92 @@ CDN：
 https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/Adobe.yaml  
 RAW:  
 https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/Adobe.yaml
+- **Bahamut**  
+CDN：  
+https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/Bahamut.yaml  
+RAW:  
+https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/Bahamut.yaml
+- **Dropbox**  
+CDN：  
+https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/Dropbox.yaml  
+RAW:  
+https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/Dropbox.yaml
+- **Google**  
+CDN：  
+https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/Google.yaml  
+RAW:  
+https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/Google.yaml
+- **Microsoft**  
+CDN：  
+https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/Microsoft/Microsoft.yaml  
+RAW:  
+https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/Microsoft/Microsoft.yaml
+- **Microsoft_Auth**  
+CDN：  
+https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/Microsoft/Microsoft_Auth.yaml  
+RAW:  
+https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/Microsoft/Microsoft_Auth.yaml
+- **Microsoft_Bing**  
+CDN：  
+https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/Microsoft/Microsoft_Bing.yaml  
+RAW:  
+https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/Microsoft/Microsoft_Bing.yaml
+- **Microsoft_MSN**  
+CDN：  
+https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/Microsoft/Microsoft_MSN.yaml  
+RAW:  
+https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/Microsoft/Microsoft_MSN.yaml
+- **Microsoft_Office**  
+CDN：  
+https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/Microsoft/Microsoft_Office.yaml  
+RAW:  
+https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/Microsoft/Microsoft_Office.yaml
+- **Microsoft_OneDrive**  
+CDN：  
+https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/Microsoft/Microsoft_OneDrive.yaml  
+RAW:  
+https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/Microsoft/Microsoft_OneDrive.yaml
+- **Microsoft_Outlook**  
+CDN：  
+https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/Microsoft/Microsoft_Outlook.yaml  
+RAW:  
+https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/Microsoft/Microsoft_Outlook.yaml
+- **Microsoft_SharePoint**  
+CDN：  
+https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/Microsoft/Microsoft_SharePoint.yaml  
+RAW:  
+https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/Microsoft/Microsoft_SharePoint.yaml
+- **Microsoft_Skype**  
+CDN：  
+https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/Microsoft/Microsoft_Skype.yaml  
+RAW:  
+https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/Microsoft/Microsoft_Skype.yaml
+- **Microsoft_Teams**  
+CDN：  
+https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/Microsoft/Microsoft_Teams.yaml  
+RAW:  
+https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/Microsoft/Microsoft_Teams.yaml
+- **Microsoft_Xbox**  
+CDN：  
+https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/Microsoft/Microsoft_Xbox.yaml  
+RAW:  
+https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/Microsoft/Microsoft_Xbox.yaml
+- **OpenAI**  
+CDN：  
+https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/OpenAI.yaml
+RAW:  
+https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/OpenAI.yaml
+- **PayPal**  
+CDN：  
+https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/PayPal.yaml
+RAW:  
+https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/PayPal.yaml
+- **Oversea_Direct**  
+> Slack-Shopify-Atlassian-Miro-Figma-Grammarly-Giphy
+CDN：  
+https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/Oversea_Direct.yaml  
+RAW:  
+https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/Oversea_Direct.yaml
 - **Aaaaaa**  
 CDN：  
 h
