@@ -1,5 +1,5 @@
-# Author: LinFeng818
 # NAME: Snapchat
+# Author: LinFeng818
 payload:
   - DOMAIN-SUFFIX,addlive.io
   - DOMAIN-SUFFIX,feelinsonice.com
