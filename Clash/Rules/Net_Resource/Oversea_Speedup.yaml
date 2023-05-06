@@ -15,3 +15,9 @@ payload:
 ##################
 # NAME: TED
   - DOMAIN-SUFFIX,ted.com
+##################
+# NAME: 80Level
+  - DOMAIN-SUFFIX,80.lv
+##################
+# NAME: Polycount
+  - DOMAIN-SUFFIX,polycount.com
