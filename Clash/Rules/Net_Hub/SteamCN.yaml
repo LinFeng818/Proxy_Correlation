@@ -20,5 +20,7 @@ payload:
   - DOMAIN-SUFFIX,steamusercontent.com
   - DOMAIN-SUFFIX,steamchina.com
   - DOMAIN-SUFFIX,steamserver.net
+  # 新增
+  - DOMAIN,api.steampowered.com
   
   
