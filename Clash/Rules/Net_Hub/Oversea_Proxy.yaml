@@ -135,6 +135,7 @@ payload:
 ###########################
 # NAME: The_Economist（新增）
   - DOMAIN-SUFFIX,economist.com
+  - DOMAIN-SUFFIX,static-economist.com
 ###########################
 # NAME: Washington_Post（新增）
   - DOMAIN-SUFFIX,washingtonpost.com
