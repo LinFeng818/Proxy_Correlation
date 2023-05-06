@@ -155,4 +155,21 @@ payload:
   - DOMAIN-SUFFIX,adobestock.com
   - DOMAIN-SUFFIX,stock.adobe.com
   - DOMAIN-SUFFIX,behance.net
+##################
+# NAME: AV
+  - DOMAIN-SUFFIX,livehdcams.com
+  - DOMAIN-SUFFIX,xlovecam.com
+  - DOMAIN-SUFFIX,pornhub.com
+  - DOMAIN-SUFFIX,redtube.com
+  - DOMAIN-SUFFIX,youporn.com
+  - DOMAIN-SUFFIX,xvideos.com
+  - DOMAIN-SUFFIX,dmm.co.jp
+  - DOMAIN-SUFFIX,91porn.com
+  - DOMAIN-SUFFIX,nivod4.tv
+  - DOMAIN-SUFFIX,tiantang.tv
+  - DOMAIN-SUFFIX,tttv5.com
+  - DOMAIN-SUFFIX,tiantang.today
+  - DOMAIN-SUFFIX,datiantang.com
+  - DOMAIN-SUFFIX,t66y.com
+  - DOMAIN-SUFFIX,hjd2048.com
   
