@@ -39,3 +39,4 @@ payload:
   - DOMAIN-SUFFIX,amazon.com
   - DOMAIN-SUFFIX,amazon.co.jp
   - DOMAIN-SUFFIX,amazon.co.uk
+  - DOMAIN,d3c33hcgiwev3.cloudfront.net
