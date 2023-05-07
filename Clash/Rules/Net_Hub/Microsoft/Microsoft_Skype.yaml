@@ -3,4 +3,8 @@
 payload:
   - DOMAIN-SUFFIX,s-0001.s-dc-msedge.net
   - DOMAIN-SUFFIX,skype.com
+  - DOMAIN-SUFFIX,skype.net
   - DOMAIN-SUFFIX,skypeassets.com
+  - DOMAIN-SUFFIX,skypeassets.net
+  - DOMAIN-SUFFIX,skypeforbusiness.com
+  
