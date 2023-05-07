@@ -154,6 +154,9 @@ payload:
   - DOMAIN-SUFFIX,wsj.net
 ###########################
 # NAME: New_York_Times（新增）
+  - DOMAIN-SUFFIX,newyorktimes.com
+  - DOMAIN-SUFFIX,tmagazine.com
+  - DOMAIN-SUFFIX,nytco.com
   - DOMAIN-SUFFIX,nyt.com
   - DOMAIN-SUFFIX,nyt.net
   - DOMAIN-SUFFIX,nyti.ms
