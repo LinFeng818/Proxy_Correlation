@@ -1,5 +1,10 @@
 # Author:LinFeng818
 ##################
+# NAME: Apple_Podcasts
+- DOMAIN,amp-api.podcasts.apple.com
+
+
+##################
 # NAME: Journalism
 # REPO: 
 # https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/BBC
