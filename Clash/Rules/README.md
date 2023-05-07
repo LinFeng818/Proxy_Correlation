@@ -80,7 +80,7 @@ RAW:
 https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Streaming_media/Peacock.yaml
 - **Plex**  
 CDN：  
-https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Streaming_media/Plex.yam  
+https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Streaming_media/Plex.yaml  
 RAW:  
 https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Streaming_media/Plex.yaml
 - **Spotify**  
