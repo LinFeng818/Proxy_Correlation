@@ -177,9 +177,9 @@ https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rule
 - **Oversea_Speedup**  
 ( Notion-TED-80Level-Polycount )  
 CDN：  
-https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/Oversea_Proxy.yaml  
+https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/Oversea_Speedup.yaml    
 RAW:  
-https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/Oversea_Speedup.yaml
+https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/Oversea_Speedup.yaml  
 - **Adobe**  
 CDN：    
 https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/Adobe.yaml  
