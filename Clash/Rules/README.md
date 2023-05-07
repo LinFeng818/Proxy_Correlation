@@ -167,9 +167,9 @@ CDN：
 https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/Oversea_Direct.yaml  
 RAW:  
 https://raw.githubusercontent.com/LinFeng818/Proxy_Correlation/master/Clash/Rules/Net_Hub/Oversea_Direct.yaml
-- **Oversea_Proxy**  
-( BBC-CNN-Bloomberg-CNBC-NBC_News-The_Economist-Washington_Post-Wall_Street_Journal-New_York_Times-New_York_Post )  
-( GitHub-GitLab-Pinterest-Pixiv-Flickr-Quora-Gumroad-Artstation-Adobe_Behance-Adobe_Stock-AVS )  
+- **Oversea_Proxy** 
+( Reuters-BBC-CNN-Bloomberg-CNBC-NBC_News-The_Economist-Washington_Post-Wall_Street_Journal-New_York_Times-New_York_Post )  
+( Apple_Podcasts-GitHub-GitLab-Pinterest-Pixiv-Flickr-Quora-Gumroad-Artstation-Adobe_Behance-Adobe_Stock-AVS )  
 CDN：  
 https://cdn.jsdelivr.net/gh/LinFeng818/Proxy_Correlation@master/Clash/Rules/Net_Hub/Oversea_Proxy.yaml  
 RAW:  
